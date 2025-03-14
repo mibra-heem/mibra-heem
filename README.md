@@ -1,6 +1,19 @@
-- 👋 Hi, I’m @mibra-heem
-- 🌱 I’m learning new things
-<!---
-mibra-heem/mibra-heem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Hi, I'm Muhammad Ibrahim (@mibra-heem)! 👋
+🔹 Flutter Developer | 💻 Full-Stack Engineer
+
+🌱 About Me:
+💙 Passionate about mobile app development with Flutter
+🔥 Experienced in PHP Laravel for building scalable web applications
+📱 Building clean, efficient, and high-performance cross-platform apps
+🌍 Love learning new technologies & improving my problem-solving skills
+
+🛠 Tech Stack:
+Mobile Development: Flutter (Dart)
+Backend: PHP Laravel, RESTful APIs
+Databases: MySQL, SQLite
+Other Tools: Git, Firebase, GetX, Provider
+
+📫 Let's Connect!
+💼 [LinkedIn](https://linkedin.com/in/muhammad-ibrahim-6b9aa4250) 
+📧 Email: m.ibraheem4095332@example.com
+🚀 Always open to collaboration & new opportunities!
