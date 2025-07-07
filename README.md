@@ -15,5 +15,5 @@ Other Tools: Git, Firebase, GetX, Provider
 
 📫 Let's Connect!
 💼 [LinkedIn](https://linkedin.com/in/muhammad-ibrahim-6b9aa4250) 
-📧 Email: m.ibraheem4095332@example.com
+📧 Email: ibraheem.dev.pk@gmail.com
 🚀 Always open to collaboration & new opportunities!
