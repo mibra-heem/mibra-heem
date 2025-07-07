@@ -14,6 +14,6 @@ Databases: MySQL, SQLite
 Other Tools: Git, Firebase, GetX, Provider
 
 📫 Let's Connect!
-💼 [LinkedIn](https://linkedin.com/in/muhammad-ibrahim-6b9aa4250) 
+💼 [LinkedIn](https://www.linkedin.com/in/mibra-heem-6b9aa4250/) 
 📧 Email: ibraheem.dev.pk@gmail.com
 🚀 Always open to collaboration & new opportunities!
