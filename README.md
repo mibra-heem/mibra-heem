@@ -21,7 +21,7 @@ Other Tools: Git, VS Code, Android Studio, Postman
 
 ## 📫 How to reach me
 - Email: ibraheem.dev.pk@gmail.com
-- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/mibra-heem-6b9aa4250/)
+- [Go To LinkedIn](https://www.linkedin.com/in/mibra-heem-6b9aa4250/)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
