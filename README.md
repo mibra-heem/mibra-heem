@@ -15,9 +15,8 @@ Other Tools: Git, VS Code, Android Studio, Postman
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mibra-heem&show_icons=true&theme=radical&layout=compact" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mibra-heem&layout=compact&theme=radical" width="48%" />
 </p>
 
 ## 📫 How to reach me
