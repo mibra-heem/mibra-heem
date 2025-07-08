@@ -14,7 +14,11 @@ Databases: MySQL, SQLite, Firebase
 Other Tools: Git, VS Code, Android Studio, Postman
 
 ## 📈 GitHub Stats
-![Mibra Heem's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibra-heem&show_icons=true&hide_title=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mibra-heem&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mibra-heem&layout=compact&theme=default" width="48%" />
+</p>
 
 ## 📫 How to reach me
 - Email: ibraheem.dev.pk@gmail.com
