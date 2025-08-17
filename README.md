@@ -22,13 +22,9 @@ Other Tools: Git, VS Code, Android Studio, Postman
 ## 📫 How to reach me
 - Email: ibraheem.dev.pk@gmail.com
 - [Go To LinkedIn](https://www.linkedin.com/in/mibra-heem-6b9aa4250/)
+- [porfolio](https://mibraheem-dev.vercel.app/)
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- Replace this comment with your latest blog posts -->
-<!-- BLOG-POST-LIST:END -->
-
-## ⚡ Fun Facts
+## ⚡ What i am doing?
 - 🔭 I’m currently working on: [Reminiss App](https://github.com/mibra-heem/reminiss)
 - 🌱 I’m currently learning Advance Flutter Concepts
 - 💬 Ask me about: Anything tech-related
