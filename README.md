@@ -22,7 +22,7 @@ Other Tools: Git, VS Code, Android Studio, Postman
 ## 📫 How to reach me
 - Email: ibraheem.dev.pk@gmail.com
 - [Go To LinkedIn](https://www.linkedin.com/in/mibra-heem-6b9aa4250/)
-- [porfolio](https://mibraheem-dev.vercel.app/)
+- [porfolio](https://ibraheem-dev-pk.vercel.app/)
 
 ## ⚡ What i am doing?
 - 🔭 I’m currently working on: [Ride App](https://github.com/mibra-heem/ride-app)
